@@ -26,7 +26,7 @@ colour of the studio's painted canvas backdrops. Bricolage Grotesque for headlin
 text, DM Mono for the edge print.
 
 Booking runs on [`@profitstudio/booking-engine`](https://www.npmjs.com/package/@profitstudio/booking-engine)
-**2.0.0-beta.3** (pinned) with your own Supabase project and Resend for email.
+**2.0.0-beta.4** (pinned) with your own Supabase project and Resend for email.
 
 ## 1. Try it (no accounts needed)
 
