@@ -4,7 +4,7 @@ A one-page booking website for an independent photography studio, shipped as **U
 Studio** (a fictional daylight portrait & still-life studio in Fishtown, Philadelphia) for
 the owner to make their own. Its identity lives in `src/site.config.ts`; `CUSTOMIZE.md` is
 the prompt that personalizes it. Built around **@profitstudio/booking-engine**
-**2.0.0-beta.4** (pinned; lock in `booking-engine.lock.json`). The engine owns booking;
+**2.0.0** (pinned; lock in `booking-engine.lock.json`). The engine owns booking;
 this project owns the public design.
 
 Read before changing anything:
