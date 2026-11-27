@@ -38,7 +38,7 @@ replace every one of these with your own photographs** — a portfolio must show
 
 | Package | Licence | Notes |
 |---|---|---|
-| `@profitstudio/booking-engine` 2.0.0 | MIT | The booking engine and the packaged dashboard |
+| `@profitstudio/booking-engine` 2.0.1 | MIT | The booking engine and the packaged dashboard |
 | `react`, `react-dom` | MIT | |
 | `@fontsource-variable/bricolage-grotesque` | OFL-1.1 | Typeface (Bricolage Grotesque, by Mathieu Triay / Atelier Triay) |
 | `@fontsource/dm-mono` | OFL-1.1 | Typeface (DM Mono, by Colophon Foundry for DeepMind) |
